@@ -1,0 +1,9 @@
+services:
+  l1-incident-multi-agent-slm-ts:
+    build: .
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data

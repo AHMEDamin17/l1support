@@ -1,0 +1,2 @@
+FROM phi3:3.8b-mini-4k-instruct-q4_K_M
+PARAMETER num_ctx 4096

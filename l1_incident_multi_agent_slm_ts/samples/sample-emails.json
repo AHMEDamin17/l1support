@@ -1,0 +1,156 @@
+[
+  {
+    "messageId": " P1 sample-001",
+    "subject": "INC54322 API Gateway timeout - customer impacted",
+    "body": "Multiple API calls are failing with timeout. Customer reported order submission delay. Please escalate.",
+    "sender": "support@client.com",
+    "senderType": "customer"
+  },
+  {
+    "messageId": "sample-002",
+    "subject": "INC54322 API Gateway timeout - customer impacted",
+    "body": "Multiple API calls are failing with timeout. Customer reported order submission delay. Please escalate.",
+    "sender": "support@client.com",
+    "senderType": "customer"
+  },
+  {
+    "messageId": "sample-003",
+    "subject": "INC54323 report issue resolved",
+    "body": "Power BI dashboard refresh issue fixed. Patch applied and customer informed. Monitoring for next refresh.",
+    "sender": "analytics.support@company.com",
+    "senderType": "operations"
+  },
+  {
+    "messageId": "sample-004",
+    "subject": "Monthly newsletter",
+    "body": "This newsletter contains release notes and enhancement ideas.",
+    "sender": "newsletter@company.com",
+    "senderType": "unknown"
+  },
+  {
+    "messageId": "sample-005",
+    "subject": "Database connection failed in production",
+    "body": "We are seeing 500 errors across the application. Logs indicate DB connection pooling issue.",
+    "sender": "monitor@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-006",
+    "subject": "Payment gateway latency",
+    "body": "Payments are taking >30s to process. Several customers have complained on Twitter.",
+    "sender": "billing-alerts@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-007",
+    "subject": "New user signup broken",
+    "body": "Getting complaints that the registration page is throwing a 404.",
+    "sender": "support@client.com",
+    "senderType": "customer"
+  },
+  {
+    "messageId": "sample-008",
+    "subject": "Weekly sync meeting",
+    "body": "Don't forget our weekly sync at 10 AM.",
+    "sender": "manager@company.com",
+    "senderType": "employee"
+  },
+  {
+    "messageId": "sample-009",
+    "subject": "INC54324 - High CPU utilization on App Server 3",
+    "body": "CPU spike detected on app-srv-03. Reached 99% for the last 5 minutes.",
+    "sender": "infra-monitor@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-010",
+    "subject": "Can't login to VPN",
+    "body": "I am unable to connect to the corporate VPN from home. Please help.",
+    "sender": "j.doe@company.com",
+    "senderType": "employee"
+  },
+  {
+    "messageId": "sample-011",
+    "subject": "Scheduled maintenance tonight",
+    "body": "Reminder: we will be patching the database servers tonight at 2 AM.",
+    "sender": "it-ops@company.com",
+    "senderType": "operations"
+  },
+  {
+    "messageId": "sample-012",
+    "subject": "INC54325 - Data pipeline failure",
+    "body": "The nightly ETL job failed to complete. Data in the warehouse is stale.",
+    "sender": "data-alerts@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-013",
+    "subject": "Customer Feedback - Great new feature!",
+    "body": "Just wanted to say I love the new dark mode.",
+    "sender": "happyuser@client.com",
+    "senderType": "customer"
+  },
+  {
+    "messageId": "sample-014",
+    "subject": "CRITICAL: Main website is DOWN",
+    "body": "The homepage is returning a 502 Bad Gateway. Immediate attention required.",
+    "sender": "pagerduty@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-015",
+    "subject": "Out of office: Vacation",
+    "body": "I will be out of the office until Monday.",
+    "sender": "colleague@company.com",
+    "senderType": "employee"
+  },
+  {
+    "messageId": "sample-016",
+    "subject": "INC54326 - Minor bug in user profile",
+    "body": "The avatar image doesn't load sometimes. Not urgent.",
+    "sender": "qa-team@company.com",
+    "senderType": "employee"
+  },
+  {
+    "messageId": "sample-017",
+    "subject": "Invoice attached for Q3",
+    "body": "Please find attached the invoice for services rendered in Q3.",
+    "sender": "vendor@partner.com",
+    "senderType": "unknown"
+  },
+  {
+    "messageId": "sample-018",
+    "subject": "Storage almost full on DB-01",
+    "body": "Warning: disk space on /var/lib/mysql is at 90% capacity.",
+    "sender": "zabbix@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "sample-019",
+    "subject": "Help with password reset",
+    "body": "I locked myself out of my account. Can someone reset my password?",
+    "sender": "user@client.com",
+    "senderType": "customer"
+  },
+  {
+    "messageId": "sample-020",
+    "subject": "INC54327 - Redis cache eviction high",
+    "body": "Experiencing high eviction rates on Redis cluster. Performance might degrade.",
+    "sender": "cache-monitor@company.com",
+    "senderType": "system"
+  },
+  {
+    "messageId": "msg-demo-001",
+    "subject": "CRITICAL: Production Database is DOWN!",
+    "body": "The main SQL server crashed 5 minutes ago. All customers are getting 500 errors when trying to log in. We are losing transactions.",
+    "sender": "monitoring-bot@company.com",
+    "senderType": "monitoring"
+  },
+  {
+    "messageId": "msg-demo-002",
+    "subject": "Team Lunch on Friday!",
+    "body": "Hey everyone, just a reminder that we are having pizza in the breakroom on Friday to celebrate the new release.",
+    "sender": "hr@company.com",
+    "senderType": "internal"
+  }
+]
